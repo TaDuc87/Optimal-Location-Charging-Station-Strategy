@@ -1,6 +1,6 @@
 [ev_charging_stations_map.html](https://github.com/user-attachments/files/25686109/ev_charging_stations_map.html)
 <!DOCTYPE html>
-<html>
+<html></html>
 <head>
     
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
